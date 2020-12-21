@@ -8,3 +8,6 @@
 - v1.0.0
 
 ### Is the code reviewd
+
+Test dropped branch
+
